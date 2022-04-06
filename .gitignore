@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+src/
+man/
+html/
+contrib/
+auto/
+CHANGES
+CHANGES.ru
+configure
+LICENSE
+README
